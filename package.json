@@ -1,0 +1,25 @@
+{
+  "name": "nextJSturorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemulick/nextJSturorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joemulick/nextJSturorial/issues"
+  },
+  "homepage": "https://github.com/joemulick/nextJSturorial#readme",
+  "dependencies": {
+    "next": "^3.2.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}

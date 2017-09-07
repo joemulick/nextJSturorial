@@ -1,4 +1,6 @@
 import Navbar from './Navbar'
+import dynamic from 'next/dynamic'
+import { Row, Col } from 'react-bootstrap'
 
 const layoutStyle = {
   margin: 20,

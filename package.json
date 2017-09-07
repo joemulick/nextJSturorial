@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/joemulick/nextJSturorial#readme",
   "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
     "express": "^4.15.4",
     "next": "^3.2.1",
     "react": "^15.6.1",

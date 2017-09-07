@@ -2,6 +2,6 @@ import Layout from '../components/MyLayout.js'
 
 export default () => (
     <Layout>
-       <p>Hello Next.js || index Page</p>
+       <p>Hello Next.js || get-involved page</p>
     </Layout>
 )
